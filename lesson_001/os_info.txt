@@ -2,3 +2,11 @@ OS info is
 uname_result(system='Windows', node='DESKTOP-ULIVVS2', release='10', version='10.0.18362', machine='AMD64', processor='Intel64 Family 6 Model 142 Stepping 10, GenuineIntel')
 
 Python version is 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:21:23) [MSC v.1916 32 bit (Intel)] ('32bit', 'WindowsPE')
+
+C:\Python38-32\python.exe C:/Users/antik/PycharmProjects/python_base1/lesson_001/01_os_info.py
+OS info is
+uname_result(system='Windows', node='DESKTOP-ULIVVS2', release='10', version='10.0.18362', machine='AMD64', processor='Intel64 Family 6 Model 142 Stepping 10, GenuineIntel')
+
+Python version is 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:21:23) [MSC v.1916 32 bit (Intel)] ('32bit', 'WindowsPE')
+
+Process finished with exit code 0
