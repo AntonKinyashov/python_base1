@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e12b0da-c86b-420a-b422-e99aef622e6e" name="Default Changelist" comment="" />
+    <list default="true" id="2e12b0da-c86b-420a-b422-e99aef622e6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578302265667</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="выполнение четвертого TODO из третьего задания">
+      <created>1579613697080</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579613697081</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,10 +165,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="179" y="26" key="#01_os_info/0.0.1536.824@0.0.1536.824" timestamp="1576862320553" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1578302264335">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1579613695572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578302264335" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579613695572" />
     <state x="100" y="100" width="680" height="624" key="DiffContextDialog" timestamp="1579613498702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
