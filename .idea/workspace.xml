@@ -22,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_base/.idea" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="01_os_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -137,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579613697081</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="выполнение четвертого TODO из третьего задания">
+      <created>1579613808261</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579613808261</updated>
+    </task>
+    <task id="LOCAL-00011" summary="выполнение четвертого TODO из третьего задания">
+      <created>1579613950588</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579613950588</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,10 +180,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="179" y="26" key="#01_os_info/0.0.1536.824@0.0.1536.824" timestamp="1576862320553" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1579613807130">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1579613949597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579613807130" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579613949597" />
     <state x="100" y="100" width="680" height="624" key="DiffContextDialog" timestamp="1579613498702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -197,6 +212,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="844" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577897541240" />
+    <state x="0" y="54" key="SettingsEditor" timestamp="1579614001632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579614001632" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1579604459469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
