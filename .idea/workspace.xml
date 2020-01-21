@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e12b0da-c86b-420a-b422-e99aef622e6e" name="Default Changelist" comment="">
+    <list default="true" id="2e12b0da-c86b-420a-b422-e99aef622e6e" name="Default Changelist" comment="выполнение четвертого TODO из третьего задания">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,8 +181,32 @@
       <option name="project" value="LOCAL" />
       <updated>1579615245710</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="выполнение четвертого TODO из третьего задания">
+      <created>1579615473914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579615473914</updated>
+    </task>
+    <task id="LOCAL-00017" summary="выполнение четвертого TODO из третьего задания">
+      <created>1579615497359</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579615497359</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -210,18 +233,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="179" y="26" key="#01_os_info/0.0.1536.824@0.0.1536.824" timestamp="1576862320553" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1579615472812">
+    <state x="33" y="72" key="#Notifications" timestamp="1579615569174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579615472812" />
-    <state x="100" y="100" width="680" height="624" key="DiffContextDialog" timestamp="1579614769434">
+    <state x="33" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1579615569174" />
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1579616485984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="100" y="100" width="680" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1579614769434" />
-    <state x="220" y="153" key="FileChooserDialogImpl" timestamp="1579614756102">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579616485984" />
+    <state x="100" y="100" width="1082" height="624" key="DiffContextDialog" timestamp="1579616482665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="220" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579614756102" />
+    <state x="100" y="100" width="1082" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1579616482665" />
+    <state x="220" y="153" key="FileChooserDialogImpl" timestamp="1579615839415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579615839415" />
     <state x="309" y="305" key="Github.ShareDialog" timestamp="1578303349294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -246,21 +273,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579614001632" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1579604459469">
+    <state x="201" y="118" key="VCS.ChangeListViewerDialog" timestamp="1579616481149">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579604459469" />
+    <state x="201" y="118" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1579616481149" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1579616235299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579616235299" />
+    <state x="100" y="100" width="680" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579616482665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="680" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1579616482665" />
     <state x="137" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579614868323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="137" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579614868323" />
-    <state x="250" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579614915440">
+    <state x="250" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579616322233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="250" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1579614915440" />
-    <state x="131" y="203" key="git4idea.merge.GitPullDialog" timestamp="1578303561578">
+    <state x="250" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1579616322233" />
+    <state x="221" y="205" key="git4idea.merge.GitMergeDialog" timestamp="1579616252929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="131" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1578303561578" />
+    <state x="221" y="205" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1579616252929" />
+    <state x="131" y="203" key="git4idea.merge.GitPullDialog" timestamp="1579616315392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="131" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1579616315392" />
+    <state x="244" y="278" key="git4idea.rebase.GitRebaseDialog" timestamp="1579616221243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="278" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1579616221243" />
   </component>
 </project>
